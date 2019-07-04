@@ -1,5 +1,5 @@
 
-        <div class="inscription" style="margin-top : 100px"> 
+        <div class="inscription"> 
             <div class="header">
                 <h1> Connexion </h1>
                 <a href="index.php?p=inscription&action=index" class="btn-outline"> S'inscrire </a>

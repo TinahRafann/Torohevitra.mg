@@ -22,7 +22,7 @@
             <h2 class="titleImage"> Vous trouverez sur Torohevitra.mg </h2>
             <img class="pdc" src="img/pdc.png"> 
         </div>
-        <?= $body ?>
+        <?= $content ?>
 </div>
 <body>
     

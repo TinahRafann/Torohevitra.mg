@@ -1,11 +1,10 @@
 <?php 
 namespace App\Controllers;
 
-use App\Config\Page;
-class inscriptionController
+class inscriptionController extends Controller
 {
-    public static function index()
-    {
-        echo Page::show('inscription','');
-    }
+   public static function add()
+   {
+       echo "okok";
+   }
 }
